@@ -8,5 +8,5 @@ Functionality:
 
 Git: Git is the core version control system. It manages repositories on your local machine and can work entirely offline.
 GitHub: GitHub is a cloud-based platform that hosts remote repositories. It provides a central hub for collaboration, including features like issue tracking, pull requests, and code reviews.
-author-chatgpt and 
+author-chatgpt and boby
 </p1>
